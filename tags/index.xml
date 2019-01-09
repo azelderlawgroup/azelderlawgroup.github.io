@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AZ Elder Law Group</title>
-    <link>https://azelderlawgroup.com/tags/</link>
+    <link>https://azelderlawgroup.github.io/tags/</link>
     <description>Recent content in Tags on AZ Elder Law Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Linda Kiesel 2018</copyright>
     
-	<atom:link href="https://azelderlawgroup.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://azelderlawgroup.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
