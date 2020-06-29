@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Make an Inquiry on AZ Elder Law Group</title>
-    <link>https://azelderlawgroup.github.io/contact/</link>
-    <description>Recent content in Make an Inquiry on AZ Elder Law Group</description>
+    <title>Make an Inquiry on Federal Tax Solutions</title>
+    <link>https://fedtaxsolutions.github.io/contact/</link>
+    <description>Recent content in Make an Inquiry on Federal Tax Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Linda Kiesel 2018</copyright>
-    
-	<atom:link href="https://azelderlawgroup.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; Linda Kiesel 2020</copyright>
+	<atom:link href="https://fedtaxsolutions.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

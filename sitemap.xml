@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+
   <url>
-    <loc>https://azelderlawgroup.github.io/</loc>
+    <loc>https://fedtaxsolutions.github.io/</loc>
   </url>
-  
+
   <url>
-    <loc>https://azelderlawgroup.github.io/about/</loc>
+    <loc>https://fedtaxsolutions.github.io/about/</loc>
   </url>
-  
+
   <url>
-    <loc>https://azelderlawgroup.github.io/categories/</loc>
+    <loc>https://fedtaxsolutions.github.io/categories/</loc>
     <priority>0</priority>
   </url>
-  
+
   <url>
-    <loc>https://azelderlawgroup.github.io/contact/</loc>
+    <loc>https://fedtaxsolutions.github.io/contact/</loc>
   </url>
-  
+
   <url>
-    <loc>https://azelderlawgroup.github.io/tags/</loc>
+    <loc>https://fedtaxsolutions.github.io/tags/</loc>
     <priority>0</priority>
   </url>
-  
+
 </urlset>
