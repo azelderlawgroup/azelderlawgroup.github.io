@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>About Linda Kiesel on Federal Tax Solutions</title>
-    <link>https://fedtaxsolutions.github.io/about/</link>
-    <description>Recent content in About Linda Kiesel on Federal Tax Solutions</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Linda Kiesel 2020</copyright>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>About Linda Wilson on Federal Tax Solutions</title>
+      <link>https://fedtaxsolutions.github.io/about/</link>
+      <description>Recent content in About Linda Wilson on Federal Tax Solutions</description>
+      <copyright>&amp;copy; Linda Wilson 2020</copyright>
 
-	<atom:link href="https://fedtaxsolutions.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://fedtaxsolutions.github.io/about/index.xml" rel="self" type="application/rss+xml" />
 
 
-  </channel>
-</rss>
+    </channel>
+  </rss>

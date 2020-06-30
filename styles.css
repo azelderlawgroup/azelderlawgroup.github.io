@@ -1,6 +1,3 @@
-/* Minimal Academic: a two-column Hugo theme for personal sites inspired by Hugo Academic & Minimal Mistakes */
-/* Designed by Joshua Hu */
-
 * {
   box-sizing: border-box;
 }
@@ -273,6 +270,7 @@ nav li ul, nav li ol {
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
+  background-image: url("https://fedtaxsolutions.github.io/img/hero.jpg");
 }
 
 .masthead-cover {
